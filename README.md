@@ -6,7 +6,7 @@
 - X  https://twitter.com/nodeforever
 -    email nodeforever@gmail.com
 -    discord @nodeforever
--    telegram @nodefroever
+-    telegram @nodeforever
 
 <!---
 nodeforever/nodeforever is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
